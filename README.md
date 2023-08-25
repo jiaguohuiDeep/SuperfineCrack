@@ -1,0 +1,2 @@
+# SuperfineCrack
+## The superfine crack dataset utilized in this research comprises 368 pavement crack images, each with a resolution of 4288 × 2848 pixels. Every pavement image is linearly annotated with the crack center to form a crack skeleton line. We divided the original road crack images into several small blocks with a size of 256 × 256 pixels. We divided the dataset into three parts, in which the training set and the validation set comprised 7596 and 2532 crack images, respectively, and the test set contained 2533 images.
